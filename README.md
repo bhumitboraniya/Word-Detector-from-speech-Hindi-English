@@ -1,12 +1,5 @@
 ## About
-This demo implements offline speech recognition and speaker identification for mobile applications using Vosk library.
-
-
-## Resources: 
-[releases](https://github.com/alphacep/vosk-android-demo/releases)
-
-## Documentation:
-For documentation and instructions please visit the [Vosk Website](https://alphacephei.com/vosk/android).
+This App implements offline speech recognition that identify a specific word that you set and notify you when you said that word 
 
 ## Requirements:
 1. Android device running Android version XX or later.
@@ -18,7 +11,6 @@ For documentation and instructions please visit the [Vosk Website](https://alpha
 -  git clone https://github.com/bhumitboraniya/Word-Detector-from-speech-Hindi-English.git
 2. Open the project in Android Studio.
 3. Build the project to ensure all dependencies are resolved.
-
 
 ## Usage:
 
@@ -35,3 +27,14 @@ For documentation and instructions please visit the [Vosk Website](https://alpha
 6. press the "PRESS TO START" to start listening for the keyword it will detect the word even screen is off and also run in background.
 
 
+## Resources: 
+Vosk Library- [releases](https://github.com/alphacep/vosk-android-demo/releases)
+
+## Documentation:
+For documentation and instructions please visit the [Vosk Website](https://alphacephei.com/vosk/android).
+
+## Disclaimer:
+You can not upload this app in PlayStore
+Reason- when you start the button this will record the background noise until you dont press stop even in background and also when screen is off so it is illegal to record the voice in background of any user.
+
+## THANK YOU :>
